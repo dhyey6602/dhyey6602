@@ -12,7 +12,6 @@ I try to make beautiful design and write code with passion to make it stand out 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<dhyey6602>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<dhyey6602>&hide=java,html,css&theme=radical)](https://github.com/dhyey6602)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<dhyey6602>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Dhyey's GitHub stats](https://github-readme-stats.vercel.app/api?username=<dhyey6602>&theme=radical)](https://github.com/dhyey6602)
