@@ -12,6 +12,4 @@ I try to make beautiful design and write code with passion to make it stand out 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<dhyey6602>&hide=java,html,css&theme=radical)](https://github.com/dhyey6602)
-
-[![Dhyey's GitHub stats](https://github-readme-stats.vercel.app/api?username=<dhyey6602>&theme=radical)](https://github.com/dhyey6602)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyey6602&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" Alt = "Github status"/>
